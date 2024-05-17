@@ -1,1 +1,46 @@
-
+[
+ 
+  {
+    "name":"BONGO FLIX",
+    "link":"https://video.frdp6-1.fna.fbcdn.net/v/t39.25447-2/434358162_747364807374962_1267211074693090658_n.mp4?_nc_cat=100&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfZ2VuMmh3YmFzaWNfaHEyX2ZyYWdfMl92aWRlbyIsInZpZGVvX2lkIjozMDE4ODc2NTI3MjIyNDV9&_nc_ohc=taw7cKDSZN4AX93R5LY&_nc_oc=AdgEDE5c_KSax1dZ_sOz4o1zv2odSURfbRZWMME2-ENgYI0iCPfPlFFirs9FLefyYf_2dzIEg9tiBFsJ68eLrqyj&_nc_rml=0&_nc_ht=video.frdp6-1.fna&oh=00_AfCLOStjwfH-S4OxkQa7SjTkx-L0gMdgJhjECHY5KKF54Q&oe=66079F51",
+    "logo":"https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  
+   {
+    "name": "IPL VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Eamin Vai",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716019739:KeyName=prod_live_events:Signature=FfTVT9TjDA9hH2J47dvwKFiTFIC3xCql-aWesdmtVAoRUTMSBgx81sH0YbKDuRx1sOgzNZZI1YDKUxS5PrbeBg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "IPL 2024",
+    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Eamin Vai",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1716021013:KeyName=tsports-ed25519-01:Signature=eME_niiaxMqvad842MUkhO0hwdBLyfXD4lfuAP8L4GZAi79lY2kARytktVmgsjS2aOHEtcn1omd-yGKtz1ojBQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "T Sports Live",
+    "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1715506458-LIVE.jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Eamin Vai",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1716021013:KeyName=tsports-ed25519-01:Signature=eME_niiaxMqvad842MUkhO0hwdBLyfXD4lfuAP8L4GZAi79lY2kARytktVmgsjS2aOHEtcn1omd-yGKtz1ojBQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
+]
