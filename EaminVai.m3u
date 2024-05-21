@@ -53,6 +53,15 @@
     "drmLicense": ""
 },
 { 
+"name":"A SPORTS ", 
+"link":"http://xtv.ooo:8080/shahz18/18usman/219689",
+"logo":"https://i.postimg.cc/G38Zbp33/asports.jpg",
+"origin":"",
+"referrer":"", 
+"userAgent":"", 
+"cookie":"" 
+}, 
+{ 
 "name":"Willow HD", "link":"http://xtv.ooo:8080/shahz18/18usman/220064",
 "logo":"https://i.postimg.cc/W3KsDxLS/willowhd.png",
 "origin":"", 
@@ -69,14 +78,14 @@
 "userAgent":"", "cookie":"" 
 }, 
 { 
-"name":"A SPORTS ", 
-"link":"http://xtv.ooo:8080/shahz18/18usman/219689",
-"logo":"https://i.postimg.cc/G38Zbp33/asports.jpg",
+"name":"ASTRO CRICKET",
+"link":"http://xtv.ooo:8080/shahz18/18usman/167581",
+"logo":"", 
 "origin":"",
 "referrer":"", 
-"userAgent":"", 
-"cookie":"" 
-}, 
+"userAgent":"",
+"cookie":""
+},
 { 
 "name":"TEN SPORTS", 
 "link":"http://xtv.ooo:8080/shahz18/18usman/167569", 
@@ -95,15 +104,6 @@
 "userAgent":"Eamin Vai",
 "cookie":""
 }, 
-{ 
-"name":"ASTRO CRICKET",
-"link":"http://xtv.ooo:8080/shahz18/18usman/167581",
-"logo":"", 
-"origin":"",
-"referrer":"", 
-"userAgent":"",
-"cookie":""
-  },
   {
     "name": "TOFFEE Dramas",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
