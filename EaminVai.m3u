@@ -14,7 +14,7 @@
     "logo": "https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg",
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Tsports  AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "userAgent": "Tsports (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1716325937:KeyName=tsports-ed25519-01:Signature=Q2pNojFfVbGSCNERWewKfrDgTXPcUHMDh58EjKq7l-0e_H3v8q2c1x9hrrI0CnGtiAU06NZzAEEOZoACP53-Bw",
     "drmScheme": "",
     "drmLicense": ""
