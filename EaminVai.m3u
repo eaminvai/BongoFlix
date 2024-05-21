@@ -1,32 +1,76 @@
 [
   {
     "name":"BONGO FLIX",
-    "link":"https://drive.usercontent.google.com/download?id=1hnukESeuf2Gs0Y8l5z_IirR42UKSZ5TA&export=download&authuser=0&confirm=t&uuid=0ce15247-7f6a-408c-97dc-80941186a3c0&at=APZUnTUc83qnX-KAbC0MPXImV4Lq:1712522805001",
+    "link":"https://drive.usercontent.google.com/u/0/uc?id=14jrlY8FXZXrHR7PXza-MRKqHLsB8JIOW&export=download",
     "logo":"https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",
     "origin":"",
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-   {
+  {
+    "name": " IPL 2024",
+    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Tsports  AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1716325937:KeyName=tsports-ed25519-01:Signature=Q2pNojFfVbGSCNERWewKfrDgTXPcUHMDh58EjKq7l-0e_H3v8q2c1x9hrrI0CnGtiAU06NZzAEEOZoACP53-Bw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
     "name": "IPL VIP",
     "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
     "logo": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png",
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
-    "userAgent": "Eamin Vai",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716019739:KeyName=prod_live_events:Signature=FfTVT9TjDA9hH2J47dvwKFiTFIC3xCql-aWesdmtVAoRUTMSBgx81sH0YbKDuRx1sOgzNZZI1YDKUxS5PrbeBg",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716343715:KeyName=prod_live_events:Signature=TlRcNHkkxzVxshowGXBj0Qfo5Bazh3odMQNAOC3Vml8ey4Li_jqkSXJyDA1I63_IDaCYDJp0XH3jH6TrlsBpDw",
     "drmScheme": "",
     "drmLicense": ""
   },
   {
-    "name": "IPL 2024",
-    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
-    "logo": "https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg",
-    "origin": "https://live-cdn.tsports.com",
-    "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Eamin Vai",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1716021013:KeyName=tsports-ed25519-01:Signature=eME_niiaxMqvad842MUkhO0hwdBLyfXD4lfuAP8L4GZAi79lY2kARytktVmgsjS2aOHEtcn1omd-yGKtz1ojBQ",
+    "name": "ICC Men's T20 World Cup VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716321739:KeyName=prod_live_events:Signature=g2krTGF1Ayz6RLmhyoAHONvdmzUva36QhkuefyR7Y8DXD1Y0ANFeqhfz3kSZWFIfAnhyPV_A67wIr5ADqVK9DQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Dramas",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716444488:KeyName=prod_linear:Signature=nr84INaBRjaQY3ugVrCy2osgIyQuXRhdAy7xukIRMkcggVOebbM2JzWq3wyHaBmYcEY4Brp-GEDyYFYvK8n_BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716444488:KeyName=prod_linear:Signature=nr84INaBRjaQY3ugVrCy2osgIyQuXRhdAy7xukIRMkcggVOebbM2JzWq3wyHaBmYcEY4Brp-GEDyYFYvK8n_BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Sports VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716444488:KeyName=prod_linear:Signature=nr84INaBRjaQY3ugVrCy2osgIyQuXRhdAy7xukIRMkcggVOebbM2JzWq3wyHaBmYcEY4Brp-GEDyYFYvK8n_BQ",
     "drmScheme": "",
     "drmLicense": ""
   }
