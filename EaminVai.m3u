@@ -8,7 +8,7 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-{
+  {
     "name": "BAN VS US",
     "link": "https://fightprofleague.akamaized.net/hls/live/2111367/pfl2024/master.m3u8",
     "logo": "https://i.ibb.co/LkWd03C/hq720-live.jpg",
@@ -51,7 +51,7 @@
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716321739:KeyName=prod_live_events:Signature=g2krTGF1Ayz6RLmhyoAHONvdmzUva36QhkuefyR7Y8DXD1Y0ANFeqhfz3kSZWFIfAnhyPV_A67wIr5ADqVK9DQ",
     "drmScheme": "",
     "drmLicense": ""
-  },
+},
 { 
 "name":"Willow HD", "link":"http://xtv.ooo:8080/shahz18/18usman/220064",
 "logo":"https://i.postimg.cc/W3KsDxLS/willowhd.png",
@@ -69,7 +69,7 @@
 "userAgent":"", "cookie":"" 
 }, 
 { 
- "name":"A SPORTS ", 
+"name":"A SPORTS ", 
 "link":"http://xtv.ooo:8080/shahz18/18usman/219689",
 "logo":"https://i.postimg.cc/G38Zbp33/asports.jpg",
 "origin":"",
@@ -77,7 +77,8 @@
 "userAgent":"", 
 "cookie":"" 
 }, 
-{ "name":"TEN SPORTS", 
+{ 
+"name":"TEN SPORTS", 
 "link":"http://xtv.ooo:8080/shahz18/18usman/167569", 
 "logo":"https://i.postimg.cc/QtCH0xR1/ten_sports.jpg",
 "origin":"", 
@@ -85,8 +86,8 @@
 "userAgent":"Eamin Vai",
 "cookie":"" 
 }, 
- {
-  "name":"TEN CRICKET",
+{
+"name":"TEN CRICKET",
 "link":"http://xtv.ooo:8080/shahz18/18usman/167587",
 "logo":"https://i.postimg.cc/QtCH0xR1/ten_sports.jpg", 
 "origin":"", 
