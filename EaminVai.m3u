@@ -93,38 +93,5 @@
 "referrer":"",
 "userAgent":"Eamin Vai",
 "cookie":""
-}, 
-  {
-    "name": "TOFFEE Dramas",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716444488:KeyName=prod_linear:Signature=nr84INaBRjaQY3ugVrCy2osgIyQuXRhdAy7xukIRMkcggVOebbM2JzWq3wyHaBmYcEY4Brp-GEDyYFYvK8n_BQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Movies VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716444488:KeyName=prod_linear:Signature=nr84INaBRjaQY3ugVrCy2osgIyQuXRhdAy7xukIRMkcggVOebbM2JzWq3wyHaBmYcEY4Brp-GEDyYFYvK8n_BQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Sports VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716444488:KeyName=prod_linear:Signature=nr84INaBRjaQY3ugVrCy2osgIyQuXRhdAy7xukIRMkcggVOebbM2JzWq3wyHaBmYcEY4Brp-GEDyYFYvK8n_BQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  }
+}
 ]
