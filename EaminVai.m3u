@@ -32,6 +32,43 @@
     "drmLicense": ""
   },
   {
+    "name":"Star Sports 1",
+    "link":"http://starshare.live:8080/live/T20C227070225533/202210886677/124281.ts",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  {
+    "name":"Star Sports 2",
+    "link":"http://opplex.tv:8080/live/2312211/1616616/167576.ts",
+    "logo":"https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  {
+    "name":"Star Sports 3",
+    "link":"http://opplex.tv:8080/live/2312211/1616616/167577.ts",
+    "logo":"https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  {
+    "name":"T Sports HD",
+    "link":"http://starshare.live:8080/live/T20C227070225533/202210886677/52500.ts",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+
+  {
     "name": "ICC Men's T20 World Cup VIP",
     "link": "https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8",
     "logo": "https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png",
