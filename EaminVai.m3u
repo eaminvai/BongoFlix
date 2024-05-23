@@ -30,6 +30,37 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+
+{
+    "name":"PAK W 🆚 ENG W",
+    "link":"https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+    "logo":"https://i.ibb.co/9s9M7Px/images-2024-05-23-T185529-521.jpg",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+{
+    "name":"T Sports HD",
+    "link":"http://starshare.live:8080/live/T20C227070225533/202210886677/52500.ts",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+
+  {
+    "name": "ICC Men's T20 World Cup VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716387861:KeyName=prod_live_events:Signature=9CyxGsscmAxZA1P0PLV7qrfKCuB606hFwwjEWm5WbPk6YZ1DMWEAvpbhh9u_ix3IdISxpsrkQkVkPNA6X-AnAg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
   {
     "name":"Star Sports 1",
     "link":"http://starshare.live:8080/live/T20C227070225533/202210886677/124281.ts",
@@ -57,27 +88,7 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-  {
-    "name":"T Sports HD",
-    "link":"http://starshare.live:8080/live/T20C227070225533/202210886677/52500.ts",
-    "logo":"https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-
-  {
-    "name": "ICC Men's T20 World Cup VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716387861:KeyName=prod_live_events:Signature=9CyxGsscmAxZA1P0PLV7qrfKCuB606hFwwjEWm5WbPk6YZ1DMWEAvpbhh9u_ix3IdISxpsrkQkVkPNA6X-AnAg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
+  
 { 
 "name":"A SPORTS ", 
 "link":"http://xtv.ooo:8080/shahz18/18usman/219689",
