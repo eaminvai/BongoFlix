@@ -148,15 +148,6 @@
     "cookie":""
   },
   {
-    "name":"Sports 18",
-    "link":"https://pos.bongohub.pw/mac.m3u8?id=7685",
-    "logo":"https://i.ibb.co/YP5XVnN/IMG-20240126-110302.jpg",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  {
     "name":"TEN SPORTS",
     "link":"http://xtv.ooo:8080/shahz18/18usman/167569",
     "logo":"https://i.ibb.co/kKzTfTs/IMG-20240217-090806.jpg",
@@ -174,7 +165,16 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-   {
+  {
+    "name":"Sports 18",
+    "link":"https://pos.bongohub.pw/mac.m3u8?id=7685",
+    "logo":"https://i.ibb.co/YP5XVnN/IMG-20240126-110302.jpg",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  {
     "name":"Super Cricket",
     "link":"https://catowrap.live/mrgamingsscric.m3u8",
     "logo":"https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",
@@ -210,15 +210,27 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-  {
-    "name":"Atnnat",
-    "link":"https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1814215713.m3u8",
-    "logo":"https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",
+  
+    {
+    "name":"WWE Network",
+    "link":"http://103.109.56.116/live/funtime107/index.m3u8",
+    "logo":"https://pbs.twimg.com/profile_images/1244042591659798534/2HHaFP4m_400x400.jpg",
     "origin":"",
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
     "cookie":""
   },
+      {
+    "name":"MU Tv",
+    "link":"http://103.109.56.116/live/funtime107/index.m3u8",
+    "logo":"https://i.ibb.co/s2CDNpR/IMG-20240320-115949.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  
+  
   {
     "name":"Willow HD",
     "link":"http://xtv.ooo:8080/shahz18/18usman/220064",
