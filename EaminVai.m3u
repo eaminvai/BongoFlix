@@ -31,6 +31,15 @@
     "drmLicense": ""
   },
   {
+    "name":"G TV HD",
+    "link":"http://103.109.56.116/live/skyfeed1006/index.m3u8",
+    "logo":"https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  {
     "name":"T Sports HD ",
     "link":"http://103.77.218.14:8082/Tsports/index.m3u8",
     "logo":"https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png",
@@ -43,15 +52,6 @@
     "name":" T Sports",
     "link":"http://176.119.29.52/live/00:1A:79:D5:3F:0C/0C219CAACF826/48010.m3u8",
     "logo":"https://i.ibb.co/TW6dtcy/IMG-20240320-113038.jpg",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  {
-    "name":"G TV HD",
-    "link":"http://103.109.56.116/live/skyfeed1006/index.m3u8",
-    "logo":"https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png",
     "origin":"",
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
@@ -115,6 +115,15 @@
     "name":"A SPORTS ",
     "link":"http://xtv.ooo:8080/shahz18/18usman/219689",
     "logo":"https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  {
+    "name":"Super Cricket",
+    "link":"https://catowrap.live/mrgamingsscric.m3u8",
+    "logo":"https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",
     "origin":"",
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
