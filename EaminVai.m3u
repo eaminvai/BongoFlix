@@ -193,6 +193,15 @@
     "cookie":""
   },
   {
+    "name":"FOX Cricket",
+    "link":"http://xtv.ooo:8080/87658765/91747291/167593",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  {
     "name":"ASTRO CRICKET",
     "link":"http://xtv.ooo:8080/shahz18/18usman/167581",
     "logo":"https://i.ibb.co/261tbRp/IMG-20240324-052842.png",
@@ -210,8 +219,7 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-  
-    {
+   {
     "name":"WWE Network",
     "link":"http://103.109.56.116/live/funtime107/index.m3u8",
     "logo":"https://pbs.twimg.com/profile_images/1244042591659798534/2HHaFP4m_400x400.jpg",
@@ -220,17 +228,6 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-      {
-    "name":"MU Tv",
-    "link":"http://103.109.56.116/live/funtime107/index.m3u8",
-    "logo":"https://i.ibb.co/s2CDNpR/IMG-20240320-115949.png",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  
-  
   {
     "name":"Willow HD",
     "link":"http://xtv.ooo:8080/shahz18/18usman/220064",
@@ -410,5 +407,7 @@
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
     "cookie":""
+
   }
-   ]
+  
+    ]
