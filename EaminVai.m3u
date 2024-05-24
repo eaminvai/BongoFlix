@@ -31,9 +31,9 @@
     "drmLicense": ""
   },
   {
-    "name":"G TV HD",
-    "link":"http://103.109.56.116/live/skyfeed1006/index.m3u8",
-    "logo":"https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png",
+    "name":"Nagorik TV",
+    "link":"https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s",
     "origin":"",
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
@@ -186,7 +186,7 @@
   {
     "name":"A SPORTS ",
     "link":"http://xtv.ooo:8080/shahz18/18usman/219689",
-    "logo":"https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png",
+    "logo":"https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",
     "origin":"",
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
