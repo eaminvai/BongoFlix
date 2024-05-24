@@ -193,6 +193,15 @@
     "cookie":""
   },
   {
+    "name":"Sky Open",
+    "link":"https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8",
+    "logo":"https://i.imgur.com/5YxbUFg.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  {
     "name":"TNT 1",
     "link":"https://catowrap.live/mrgamingbtsport1.m3u8",
     "logo":"https://i.ibb.co/7SfnssW/download-18.png",
@@ -232,24 +241,6 @@
     "name":"EUROPSPORT",
     "link":"http://xtv.ooo:8080/shahz18/18usman/206324",
     "logo":"https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  {
-    "name":"Sky Open",
-    "link":"https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8",
-    "logo":"https://i.imgur.com/5YxbUFg.png",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  {
-    "name":"DUBAI SPORTS HD",
-    "link":"http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-    "logo":"https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg",
     "origin":"",
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
