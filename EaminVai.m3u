@@ -8,7 +8,15 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   }, 
-
+{
+    "name":"BAN VS USA ",
+    "link":"http://starshare.live:8080/live/Sylvia/Sylvia/3802.m3u8",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
 {
     "name":"PAK VS ENG",
     "link":"http://starshare.live:8080/live/Sylvia/Sylvia/158442.m3u8",
@@ -41,15 +49,7 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-  {
-    "name":"Nagorik TV",
-    "link":"https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv",
-    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
+  
   {
     "name":"T Sports HD ",
     "link":"http://103.77.218.14:8082/Tsports/index.m3u8",
