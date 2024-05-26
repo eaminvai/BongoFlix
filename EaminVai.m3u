@@ -9,35 +9,17 @@
     "cookie":""
   }, 
 {
-    "name":"BAN VS USA ",
-    "link":"http://starshare.live:8080/live/Sylvia/Sylvia/3802.m3u8",
-    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-{
-    "name":"PAK VS ENG",
-    "link":"http://starshare.live:8080/live/Sylvia/Sylvia/158442.m3u8",
-    "logo":"https://i.ibb.co/7y4JMGw/IMG-20240324-053136.j",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-
-  {
     "name": " IPL 2024",
     "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
     "logo": "https://i.ibb.co/QjRWrFq/20240321-105313.png",
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Tsports AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1716585169:KeyName=tsports-ed25519-01:Signature=gvmkzDnPA0HWzibF88RgFOXDn2bnA6xoE6fMfv6TYUZf9MhehMDkatEgyIhjeGOeJsLPCH6azftbWSZn4spWDA",
+    "userAgent": "Tsports  AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1716758284:KeyName=tsports-ed25519-01:Signature=FwoEEMQF8MrYsvMsVTcXjTefyoZ3wEXcSr_S-WHOibuk9HBqnN2bVRkVnNlsDNTS2CuAHSgZxZ5Q4FjSbnLgBw",
     "drmScheme": "",
     "drmLicense": ""
-  },  
+  },
+
   {
     "name": "IPL VIP",
     "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
@@ -45,11 +27,10 @@
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716582327:KeyName=prod_live_events:Signature=Tanc3XOMy24_ElLdyah1uN4zu4r8MxoVuw2-FBne_rYNUa4kbUrv3GE7r8nA572SOP32YvZtirv-IPn2_JUuCg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716755268:KeyName=prod_live_events:Signature=l1ReQZPsTBA5UTYnX4sNRLoewbIleX5ES2h_muiP1sc2hYOFBs-2_OZALyye-KiNxfbuF0LIGVQN-0Jeb0wEBA",
     "drmScheme": "",
     "drmLicense": ""
   },
-  
   {
     "name":"T Sports HD ",
     "link":"http://103.77.218.14:8082/Tsports/index.m3u8",
