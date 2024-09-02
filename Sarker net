@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:- ,SOMOY TV
+#EXTINF:-1 ,SOMOY TV
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#EXTINF:-2 tvg-group"Bangladeshi"tvg-logo"https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",N Tv
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#EXTINF:-3 tvg-group"Indian"tvg-logo"", R TV
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
