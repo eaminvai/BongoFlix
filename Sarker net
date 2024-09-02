@@ -9,7 +9,7 @@ https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-5 tvg-group="Bangladeshi"tvg-logo="",BB News
 https://ythls.armelin.one/channel/UC_oeV-P3DVo0JrxwRVgNWLw.m3u8
-#EXTINF:-5 tvg-group="Indian"tvg-logo="", Mr bean
+EXTINF:-6 tvg-group="Indian"tvg-logo="", Mr bean
 https://ythls.armelin.one/channel/UCEwIUtFBhaI2L2PuKv0KL2g.m3u8
-#EXTINF:-6 tvg-group="Indian"tvg-logo="", Wild
+EXTINF:-7 tvg-group="Indian"tvg-logo="", Wild
 https://ythls.armelin.one/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
