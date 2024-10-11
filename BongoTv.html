@@ -87,7 +87,7 @@
         function loadChannels() {
             // Simulate delay for loading channels
             setTimeout(() => {
-                fetch('https://raw.githubusercontent.com/RsLive-Tv/Rs-App/refs/heads/main/Playlist.m3u')
+                fetch('https://raw.githubusercontent.com/eaminvai/BongoFlix/refs/heads/main/BongoFlix.m3u8')
                     .then(response => response.text())
                     .then(data => {
                         const lines = data.split('\n');
