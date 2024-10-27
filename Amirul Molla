@@ -74,7 +74,7 @@ http://100.100.100.12/ekusheytv/video.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/3xJk6hNR/20240802-200509.png",Bangla Vision
 http://100.100.100.12/banglavision/video.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/3xJk6hNR/20240802-200509.png",Bangla Vision J 
-https://static.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8
+https://static.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8|referer=BongoFlixOfficial
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/1516vbDn/20240730-224923.png",Ekattor
 http://100.100.100.12/ekattor/video.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/DyQGH5cC/20240730-225116.png",DBC NEWS
